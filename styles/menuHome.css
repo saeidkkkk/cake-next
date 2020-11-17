@@ -1,0 +1,31 @@
+.menu-section{
+margin-bottom: 60px;
+}
+
+.menu-section h1{
+    color: #e5e5e5;
+    text-align: center;
+    margin-top: 90px;
+     margin-bottom: 30px; 
+  }
+
+  .menu-section h2{
+    color: #bbb;
+    text-align: center;
+    font-size: 24px; 
+  }
+
+  .menu-section p{
+    color: #ddd;
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .arc-header{
+      background: url('/eleman/arc-header.svg');
+      background-position: bottom;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 200px;
+      margin-bottom: 50px;
+  }

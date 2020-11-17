@@ -1,0 +1,163 @@
+
+/*** about us ***/
+
+.background-box__back{
+    background-image: url(/k7.jpg);
+    background-size: cover;
+  }
+
+  .background-box__back-build{
+    background-image: url(/k1.jpg);
+    background-size: cover;
+  }
+  
+  .text-content__header__cover{
+    background-color: rgba(240,240, 240, .85);
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+  
+  .text-content__header h1{
+  text-align: center;
+  color: #212121;
+  }
+  
+  .text-content__header p{
+    text-align: justify;
+    color: #616161;
+    margin-top: 30px;
+    line-height: 2;
+    }
+  
+  .text-content__image{
+      width: 100%;
+      margin:auto;
+    }
+
+    .text-content__image img{
+      width: 100%;
+      height: 100%;
+    }
+
+    .text-content__image-build{
+      width: 100%;
+      margin:auto;
+      overflow: hidden;
+      border-radius: 5px;
+      box-shadow: 0 1px 6px 0 rgba(0, 0, 0, .3);
+    }
+  
+    .text-content__image-build img{
+      width: 100%;
+      height: 100%;
+    }
+
+    .text-content__passage{
+      padding: 15px;
+    }
+  
+    .text-content__passage h2{
+      text-align: right;
+      color: #820032;
+      font-size: 24px;
+    }
+  
+  .text-content__passage p{
+    text-align: justify;
+    color: #616161;
+    margin-top: 30px;
+    line-height: 2;
+    }
+  
+  /*** build best section ***/
+
+  .build-best{
+    margin: auto;
+    margin-bottom: 8px;
+    margin-top: 25px;
+    height: 100px;
+    width: 100px;
+    border: solid 1px #9e9e9e;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .build-best:hover{
+    background-color: #fff;
+  }
+
+  .build-best img{
+    width: 60%;
+    height: 60%;
+    margin: auto;
+  }
+
+  .paragraf-color__item-bold{
+    color: #9e9e9e;
+    font-weight: bold;
+  }
+
+  /*** card package ***/
+
+  .card-package{
+    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, .3);
+    border-radius: 10px;
+    padding: 30px;
+    text-align: center;
+    cursor: pointer;
+    margin: 15px 0;
+  }
+
+  .card-package:hover{
+    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, .6);
+  }
+
+  .month-expire{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px #820032;
+    margin: auto;
+  }
+  .month-expire span{
+    color: #820032;
+    font-size: 50px;
+  }
+
+  .month-expire__text{
+    font-size: 24px;
+    color: #9e9e9e;
+    margin: 15px 0;
+  }
+
+  .cost-expire{
+    color: #616161;
+    font-size: 24px;
+    padding: 15px;
+    /* border-top: solid 1px #ddd;
+    border-bottom: solid 1px #ddd; */
+    background-color: #fff3f3;
+  }
+  .cost-expire sub{
+    color: #9e9e9e;
+    font-size: 18px;
+  }
+
+/*************************/
+
+.make-store__form{
+  padding: 30px;
+  text-align: right;
+  width: 100%;
+  margin: auto;
+}
+
+.make-store__form label{
+  color: #616161;
+}

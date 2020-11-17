@@ -1,0 +1,54 @@
+/**** swiper list *****/
+
+.slider-select__item{
+    margin-top: 30px;
+    border-bottom: solid 1px #ccc;
+    text-align: center; 
+  }
+  
+  .slider-select__item .nav-link{
+    color: #616161 !important;
+  }
+  
+  .slider-select__item .active{
+    color: #820032 !important;
+    border-bottom: solid 3px #820032;
+  }
+  
+  .swiper-contet__section{
+    padding: 15px;
+    margin-top: 30px;
+    text-align: center; 
+  }
+  
+  .swiper-content__item{
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .swiper-item__image{
+    width: 100%;
+    border: solid 1px #9e9e9e;
+    border-radius: 10px;
+  }
+  .swiper-item__image img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+  }
+                  
+  .swiper-item__text h4{
+    font-size: 16px;
+    margin-top: 15px;
+    color: #616161;
+  }
+  .swiper-item__text p{
+    font-size: 14px;
+    margin-top: 15px;
+    color: #9e9e9e;
+  }
+  
+  
+  
+  
+  

@@ -1,0 +1,33 @@
+.contact-image__back{
+    background-image: url(/Contact-Us.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center ;
+    border-radius: 0px 10px 10px 0px;
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.cover-menu__contact{
+    background-color: rgba(130, 0, 50, 0.7);
+    border-radius: 0px 10px 10px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.contact-image__back img{
+    width: 100%;
+    height: 100%;
+}
+.contact-content__address{
+   padding: 30px;
+   border-radius: 10px;
+   color: #fff;
+   text-align: right;
+   line-height: 2;
+}
+.contact-content__address h1{
+    font-size: 24px;
+    margin-bottom: 30px;
+}

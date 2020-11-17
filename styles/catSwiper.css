@@ -1,0 +1,25 @@
+.swiper-box{
+margin-top: 60px;
+}
+.swiper-section p{
+    text-align: center;
+    color: #ddd;
+}
+.swiper-item{
+
+width: 75px;
+height: 75px;
+background-color:rgba(0, 0, 0, 0.6);
+color: pink;
+border-radius: 100%;
+text-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: auto;
+
+}
+
+.swiper-item i{
+    font-size: 30px;
+}
